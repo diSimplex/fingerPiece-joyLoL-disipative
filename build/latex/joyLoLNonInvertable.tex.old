@@ -1,0 +1,16 @@
+% !TEX root = joyLoLNonInvertible.tex
+% !LPiL preamble = ./jnPreamble.tex
+% !LPiL postamble = ./jnPostamble.tex
+
+\lpilTitle{fp-joylol-non-invertible}[
+  Finger Pieces : JoyLoL Non-invertible
+]{
+  Finger Pieces : JoyLoL Non-invertible
+}
+\author{Stephen Gaito}
+
+\maketitle
+
+\begin{abstract}
+  In this finger piece, we explore the JoyLoL non-invertible interpreter.
+\end{abstract}
